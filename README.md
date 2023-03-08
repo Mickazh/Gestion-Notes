@@ -1,2 +1,2 @@
 # Gestion-Notes
-SAE en C
+Système de gestion de note en console fait en C
